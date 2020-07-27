@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/semana12_react_bootstrap_app/static/css/main.bc075b64.chunk.css",
+    "main.js": "/semana12_react_bootstrap_app/static/js/main.d760a1f1.chunk.js",
+    "main.js.map": "/semana12_react_bootstrap_app/static/js/main.d760a1f1.chunk.js.map",
+    "runtime-main.js": "/semana12_react_bootstrap_app/static/js/runtime-main.14d88c76.js",
+    "runtime-main.js.map": "/semana12_react_bootstrap_app/static/js/runtime-main.14d88c76.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/semana12_react_bootstrap_app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.868c558d.chunk.js": "/semana12_react_bootstrap_app/static/js/2.868c558d.chunk.js",
+    "static/js/2.868c558d.chunk.js.map": "/semana12_react_bootstrap_app/static/js/2.868c558d.chunk.js.map",
+    "index.html": "/semana12_react_bootstrap_app/index.html",
+    "precache-manifest.9b53216d9813ae0a070c7418d1cacc22.js": "/semana12_react_bootstrap_app/precache-manifest.9b53216d9813ae0a070c7418d1cacc22.js",
+    "service-worker.js": "/semana12_react_bootstrap_app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/semana12_react_bootstrap_app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bc075b64.chunk.css.map": "/semana12_react_bootstrap_app/static/css/main.bc075b64.chunk.css.map",
+    "static/js/2.868c558d.chunk.js.LICENSE.txt": "/semana12_react_bootstrap_app/static/js/2.868c558d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d88c76.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.868c558d.chunk.js",
+    "static/css/main.bc075b64.chunk.css",
+    "static/js/main.d760a1f1.chunk.js"
+  ]
+}
